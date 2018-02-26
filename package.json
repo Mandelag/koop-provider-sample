@@ -13,7 +13,7 @@
     "lambda-update": "claudia update"
   },
   "dependencies": {
-    "config": "^1.25.1",
+    "config": "^1.30.0",
     "koop": "^3.4.0",
     "request": "^2.79.0"
   },
